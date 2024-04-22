@@ -9,7 +9,7 @@
 - Расчет прибыли и рисков
 
 ## Используемые инструменты
-Python, Pandas, Seaborn, Scikit-learn, бутстрап
+Python, Pandas, Seaborn, Scikit-learn, Bootstrap
 
 ## Навыки
 - Предобработка данных
